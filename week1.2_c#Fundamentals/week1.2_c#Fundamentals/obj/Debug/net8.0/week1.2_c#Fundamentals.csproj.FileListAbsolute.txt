@@ -1,0 +1,14 @@
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\bin\Debug\net8.0\week1.2_c#Fundamentals.exe
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\bin\Debug\net8.0\week1.2_c#Fundamentals.deps.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\bin\Debug\net8.0\week1.2_c#Fundamentals.runtimeconfig.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\bin\Debug\net8.0\week1.2_c#Fundamentals.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\bin\Debug\net8.0\week1.2_c#Fundamentals.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\obj\Debug\net8.0\week1.2_c#Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\obj\Debug\net8.0\week1.2_c#Fundamentals.AssemblyInfoInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\obj\Debug\net8.0\week1.2_c#Fundamentals.AssemblyInfo.cs
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\obj\Debug\net8.0\week1.2_c#Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\obj\Debug\net8.0\week1.2_c#Fundamentals.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\obj\Debug\net8.0\refint\week1.2_c#Fundamentals.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\obj\Debug\net8.0\week1.2_c#Fundamentals.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\obj\Debug\net8.0\week1.2_c#Fundamentals.genruntimeconfig.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week1.2_c#Fundamentals\week1.2_c#Fundamentals\obj\Debug\net8.0\ref\week1.2_c#Fundamentals.dll

@@ -1,0 +1,14 @@
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\bin\Debug\net8.0\week4_generics.exe
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\bin\Debug\net8.0\week4_generics.deps.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\bin\Debug\net8.0\week4_generics.runtimeconfig.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\bin\Debug\net8.0\week4_generics.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\bin\Debug\net8.0\week4_generics.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\obj\Debug\net8.0\week4_generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\obj\Debug\net8.0\week4_generics.AssemblyInfoInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\obj\Debug\net8.0\week4_generics.AssemblyInfo.cs
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\obj\Debug\net8.0\week4_generics.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\obj\Debug\net8.0\week4_generics.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\obj\Debug\net8.0\refint\week4_generics.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\obj\Debug\net8.0\week4_generics.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\obj\Debug\net8.0\week4_generics.genruntimeconfig.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week4_generics\week4_generics\obj\Debug\net8.0\ref\week4_generics.dll

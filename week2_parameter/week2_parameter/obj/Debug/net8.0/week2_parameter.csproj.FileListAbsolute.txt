@@ -1,0 +1,14 @@
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\bin\Debug\net8.0\week2_parameter.exe
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\bin\Debug\net8.0\week2_parameter.deps.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\bin\Debug\net8.0\week2_parameter.runtimeconfig.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\bin\Debug\net8.0\week2_parameter.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\bin\Debug\net8.0\week2_parameter.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\obj\Debug\net8.0\week2_parameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\obj\Debug\net8.0\week2_parameter.AssemblyInfoInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\obj\Debug\net8.0\week2_parameter.AssemblyInfo.cs
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\obj\Debug\net8.0\week2_parameter.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\obj\Debug\net8.0\week2_parameter.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\obj\Debug\net8.0\refint\week2_parameter.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\obj\Debug\net8.0\week2_parameter.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\obj\Debug\net8.0\week2_parameter.genruntimeconfig.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week2_parameter\week2_parameter\obj\Debug\net8.0\ref\week2_parameter.dll

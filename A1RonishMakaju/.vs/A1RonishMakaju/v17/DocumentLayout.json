@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\A1RonishMakaju\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35CB4A47-667B-4F0E-A6BD-61059858A743}|A1RonishMakaju\\A1RonishMakaju.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\a1ronishmakaju\\a1ronishmakaju\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CB4A47-667B-4F0E-A6BD-61059858A743}|A1RonishMakaju\\A1RonishMakaju.csproj|solutionrelative:a1ronishmakaju\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CB4A47-667B-4F0E-A6BD-61059858A743}|A1RonishMakaju\\A1RonishMakaju.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\a1ronishmakaju\\a1ronishmakaju\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CB4A47-667B-4F0E-A6BD-61059858A743}|A1RonishMakaju\\A1RonishMakaju.csproj|solutionrelative:a1ronishmakaju\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CB4A47-667B-4F0E-A6BD-61059858A743}|A1RonishMakaju\\A1RonishMakaju.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\a1ronishmakaju\\a1ronishmakaju\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CB4A47-667B-4F0E-A6BD-61059858A743}|A1RonishMakaju\\A1RonishMakaju.csproj|solutionrelative:a1ronishmakaju\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\A1RonishMakaju\\A1RonishMakaju\\Library.cs",
+              "RelativeDocumentMoniker": "A1RonishMakaju\\Library.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\A1RonishMakaju\\A1RonishMakaju\\Library.cs",
+              "RelativeToolTip": "A1RonishMakaju\\Library.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAqwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T00:51:57.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\A1RonishMakaju\\A1RonishMakaju\\Book.cs",
+              "RelativeDocumentMoniker": "A1RonishMakaju\\Book.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\A1RonishMakaju\\A1RonishMakaju\\Book.cs",
+              "RelativeToolTip": "A1RonishMakaju\\Book.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T00:01:11.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\A1RonishMakaju\\A1RonishMakaju\\Program.cs",
+              "RelativeDocumentMoniker": "A1RonishMakaju\\Program.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\A1RonishMakaju\\A1RonishMakaju\\Program.cs",
+              "RelativeToolTip": "A1RonishMakaju\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:59:23.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

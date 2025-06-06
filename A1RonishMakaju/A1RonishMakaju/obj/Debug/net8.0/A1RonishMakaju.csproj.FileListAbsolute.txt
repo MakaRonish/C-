@@ -1,0 +1,14 @@
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\bin\Debug\net8.0\A1RonishMakaju.exe
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\bin\Debug\net8.0\A1RonishMakaju.deps.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\bin\Debug\net8.0\A1RonishMakaju.runtimeconfig.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\bin\Debug\net8.0\A1RonishMakaju.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\bin\Debug\net8.0\A1RonishMakaju.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\obj\Debug\net8.0\A1RonishMakaju.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\obj\Debug\net8.0\A1RonishMakaju.AssemblyInfoInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\obj\Debug\net8.0\A1RonishMakaju.AssemblyInfo.cs
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\obj\Debug\net8.0\A1RonishMakaju.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\obj\Debug\net8.0\A1RonishMakaju.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\obj\Debug\net8.0\refint\A1RonishMakaju.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\obj\Debug\net8.0\A1RonishMakaju.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\obj\Debug\net8.0\A1RonishMakaju.genruntimeconfig.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\A1RonishMakaju\A1RonishMakaju\obj\Debug\net8.0\ref\A1RonishMakaju.dll

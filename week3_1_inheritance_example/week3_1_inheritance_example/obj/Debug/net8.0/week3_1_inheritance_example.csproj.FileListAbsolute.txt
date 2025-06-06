@@ -1,0 +1,14 @@
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\bin\Debug\net8.0\week3_1_inheritance_example.exe
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\bin\Debug\net8.0\week3_1_inheritance_example.deps.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\bin\Debug\net8.0\week3_1_inheritance_example.runtimeconfig.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\bin\Debug\net8.0\week3_1_inheritance_example.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\bin\Debug\net8.0\week3_1_inheritance_example.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\obj\Debug\net8.0\week3_1_inheritance_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\obj\Debug\net8.0\week3_1_inheritance_example.AssemblyInfoInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\obj\Debug\net8.0\week3_1_inheritance_example.AssemblyInfo.cs
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\obj\Debug\net8.0\week3_1_inheritance_example.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\obj\Debug\net8.0\week3_1_inheritance_example.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\obj\Debug\net8.0\refint\week3_1_inheritance_example.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\obj\Debug\net8.0\week3_1_inheritance_example.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\obj\Debug\net8.0\week3_1_inheritance_example.genruntimeconfig.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\week3_1_inheritance_example\week3_1_inheritance_example\obj\Debug\net8.0\ref\week3_1_inheritance_example.dll

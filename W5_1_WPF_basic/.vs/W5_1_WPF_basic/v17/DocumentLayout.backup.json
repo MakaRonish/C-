@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\W5_1_WPF_basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10E78C-0161-4F4F-8256-704700975776}|W5_1_WPF_basic\\W5_1_WPF_basic.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\w5_1_wpf_basic\\w5_1_wpf_basic\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10E78C-0161-4F4F-8256-704700975776}|W5_1_WPF_basic\\W5_1_WPF_basic.csproj|solutionrelative:w5_1_wpf_basic\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10E78C-0161-4F4F-8256-704700975776}|W5_1_WPF_basic\\W5_1_WPF_basic.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\w5_1_wpf_basic\\w5_1_wpf_basic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A10E78C-0161-4F4F-8256-704700975776}|W5_1_WPF_basic\\W5_1_WPF_basic.csproj|solutionrelative:w5_1_wpf_basic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10E78C-0161-4F4F-8256-704700975776}|W5_1_WPF_basic\\W5_1_WPF_basic.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\w5_1_wpf_basic\\w5_1_wpf_basic\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10E78C-0161-4F4F-8256-704700975776}|W5_1_WPF_basic\\W5_1_WPF_basic.csproj|solutionrelative:w5_1_wpf_basic\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\W5_1_WPF_basic\\W5_1_WPF_basic\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "W5_1_WPF_basic\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\W5_1_WPF_basic\\W5_1_WPF_basic\\AssemblyInfo.cs",
+              "RelativeToolTip": "W5_1_WPF_basic\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:32:16.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\W5_1_WPF_basic\\W5_1_WPF_basic\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "W5_1_WPF_basic\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\W5_1_WPF_basic\\W5_1_WPF_basic\\MainWindow.xaml",
+              "RelativeToolTip": "W5_1_WPF_basic\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T15:41:27.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\W5_1_WPF_basic\\W5_1_WPF_basic\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "W5_1_WPF_basic\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\W5_1_WPF_basic\\W5_1_WPF_basic\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "W5_1_WPF_basic\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAADgvxIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:41:23.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

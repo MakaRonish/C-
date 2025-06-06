@@ -1,0 +1,48 @@
+Quiz 1
+src to cil to machine language
+
+src to cil is c compiler and then cil to machine jit compiler
+
+
+clr handle memory handling security and exception management
+
+which feature in .net ensure different language work together seamlessly?
+cts clr fcl il
+What keyword allows a method to alter the original variable from the caller?
+ref out readonly const
+
+what is the correctuse of string interpolation in c#?
+
+
+class call polymorphisim
+
+what statement about ref and out parameters is accurate?
+ans ref requires initialization before use out does not
+
+which describes best fits readonly keyword in c#?
+const is inirialized when defined readonly is just defined but not declaration and will be initialized in constructor
+
+in c# what is an instance of a class called 
+
+what is autoimplemented property?
+which doesn't have the return one get;set;
+
+@ sign
+
+what does this declaration imply?
+
+class derived 
+
+
+t or f
+
+A virtual method in a base class can be overridden in a subclass true
+auto implemented properties cannot contain logic
+the out keyword allows multiple return values
+a const field can be assigned in a constructor
+
+
+
+
+
+

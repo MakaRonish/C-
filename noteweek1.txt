@@ -1,0 +1,36 @@
+c#
+
+value Data type : stored in stack
+
+
+Refrence type datatype: stored in heap 
+
+
+
+
+string and obj are ref and string is immutable
+
+when changing string its like making a whole new variable assigning a new refrence/location and old one is collected by garbage collecter
+
+
+
+
+
+review:
+local variable dont have defalts but class variable/feilds have default value
+
+String interpolation $"{}"
+Type inference(var)
+
+make nullable datatype by using ?
+
+garbage collecter :ita part of clr in c# jwm in java
+
+value datatype 
+refrence datatype(string and object)
+
+string is imuutable
+@{}
+
+
+
