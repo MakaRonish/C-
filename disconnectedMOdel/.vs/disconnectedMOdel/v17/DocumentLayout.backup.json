@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\disconnectedMOdel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A164B74-ABE0-423B-93D8-D4E5452275DE}|disconnectedMOdel\\disconnectedMOdel.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\c-\\disconnectedmodel\\disconnectedmodel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A164B74-ABE0-423B-93D8-D4E5452275DE}|disconnectedMOdel\\disconnectedMOdel.csproj|solutionrelative:disconnectedmodel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A164B74-ABE0-423B-93D8-D4E5452275DE}|disconnectedMOdel\\disconnectedMOdel.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\c-\\disconnectedmodel\\disconnectedmodel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A164B74-ABE0-423B-93D8-D4E5452275DE}|disconnectedMOdel\\disconnectedMOdel.csproj|solutionrelative:disconnectedmodel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A164B74-ABE0-423B-93D8-D4E5452275DE}|disconnectedMOdel\\disconnectedMOdel.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\c-\\disconnectedmodel\\disconnectedmodel\\dataset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A164B74-ABE0-423B-93D8-D4E5452275DE}|disconnectedMOdel\\disconnectedMOdel.csproj|solutionrelative:disconnectedmodel\\dataset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A164B74-ABE0-423B-93D8-D4E5452275DE}|disconnectedMOdel\\disconnectedMOdel.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\c-\\disconnectedmodel\\disconnectedmodel\\dataset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A164B74-ABE0-423B-93D8-D4E5452275DE}|disconnectedMOdel\\disconnectedMOdel.csproj|solutionrelative:disconnectedmodel\\dataset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A164B74-ABE0-423B-93D8-D4E5452275DE}|disconnectedMOdel\\disconnectedMOdel.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\c-\\disconnectedmodel\\disconnectedmodel\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A164B74-ABE0-423B-93D8-D4E5452275DE}|disconnectedMOdel\\disconnectedMOdel.csproj|solutionrelative:disconnectedmodel\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dataset.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\disconnectedMOdel\\disconnectedMOdel\\Dataset.xaml.cs",
+              "RelativeDocumentMoniker": "disconnectedMOdel\\Dataset.xaml.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\disconnectedMOdel\\disconnectedMOdel\\Dataset.xaml.cs",
+              "RelativeToolTip": "disconnectedMOdel\\Dataset.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wCgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:31:59.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dataset.xaml",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\disconnectedMOdel\\disconnectedMOdel\\Dataset.xaml",
+              "RelativeDocumentMoniker": "disconnectedMOdel\\Dataset.xaml",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\disconnectedMOdel\\disconnectedMOdel\\Dataset.xaml",
+              "RelativeToolTip": "disconnectedMOdel\\Dataset.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-08T16:22:23.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\disconnectedMOdel\\disconnectedMOdel\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "disconnectedMOdel\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\disconnectedMOdel\\disconnectedMOdel\\MainWindow.xaml",
+              "RelativeToolTip": "disconnectedMOdel\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-08T15:25:21.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\disconnectedMOdel\\disconnectedMOdel\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "disconnectedMOdel\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\disconnectedMOdel\\disconnectedMOdel\\MainWindow.xaml.cs",
+              "RelativeToolTip": "disconnectedMOdel\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:25:15.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\disconnectedMOdel\\disconnectedMOdel\\App.config",
+              "RelativeDocumentMoniker": "disconnectedMOdel\\App.config",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\disconnectedMOdel\\disconnectedMOdel\\App.config",
+              "RelativeToolTip": "disconnectedMOdel\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-08T15:36:26.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
