@@ -1,0 +1,7 @@
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\MyFirst\MyFirst\bin\Debug\MyFirst.exe.config
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\MyFirst\MyFirst\bin\Debug\MyFirst.exe
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\MyFirst\MyFirst\bin\Debug\MyFirst.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\MyFirst\MyFirst\obj\Debug\MyFirst.csproj.AssemblyReference.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\MyFirst\MyFirst\obj\Debug\MyFirst.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\MyFirst\MyFirst\obj\Debug\MyFirst.exe
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\MyFirst\MyFirst\obj\Debug\MyFirst.pdb
