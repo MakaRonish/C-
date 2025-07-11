@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("disconnectedMOdel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8fc7f4de97510372dfa992b512e738144abd133")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05a5be9f7268c36c3bd68f2f4251e5e80acf329b")]
 [assembly: System.Reflection.AssemblyProductAttribute("disconnectedMOdel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("disconnectedMOdel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

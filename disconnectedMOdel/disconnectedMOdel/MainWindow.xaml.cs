@@ -22,19 +22,29 @@ namespace disconnectedMOdel
         //conection string
 
         string connStr = ConfigurationManager.ConnectionStrings["Northwind"].ConnectionString;
+        DataTable tblProduct;
+        SqlConnection conn;
+        SqlDataAdapter adapter;
+        Dataset ds;
+        SqlCommandBuilder builder;
         public MainWindow()
         {
             InitializeComponent();
+            LoadData();
         }
-        public DataTable LoadData()
+        public void LoadData()
         {
             //sql connection (app.config)
-            SqlConnection conn= new SqlConnection(connStr);
+            conn= new SqlConnection(connStr);
             string query = "Select productID,ProductName, UnitPrice, UnitsInStock from products";
 
 
             //sqldata adapter
-            SqlDataAdapter adapter = new SqlDataAdapter(query,conn);
+             adapter = new SqlDataAdapter(query,conn); 
+
+
+            //CommandBuilder 
+            builder = new SqlCommandBuilder(adapter);
 
 
             //Dataset
@@ -42,7 +52,7 @@ namespace disconnectedMOdel
             adapter.Fill(ds);
 
             //datatable
-            DataTable tblProduct= ds.Tables[0];
+            tblProduct= ds.Tables[0];
 
             //define primary key
             DataColumn[] pk = new DataColumn[1];
@@ -50,23 +60,29 @@ namespace disconnectedMOdel
             pk[0].AutoIncrement = true;
             tblProduct.PrimaryKey = pk;
             
-            return tblProduct;
+           
+        }
+
+        public void RefreshDataGrid()
+        {
+            LoadData();
+            grdProducts.ItemsSource = tblProduct.DefaultView;
         }
         public DataRow GetProductById(int id)
         {
-            DataTable tblProducts = LoadData();
+            
 
-            DataRow row = tblProducts.Rows.Find(id);
+            DataRow row = tblProduct.Rows.Find(id);
             return row;
         }
     
 
         private void btnLoadAllProducts_Click(object sender, RoutedEventArgs e)
         {
-           DataTable tblProducts= LoadData();
+           
             
 
-            grdProducts.ItemsSource = tblProducts.DefaultView;
+            grdProducts.ItemsSource = tblProduct.DefaultView;
 
         }
 
@@ -95,13 +111,68 @@ namespace disconnectedMOdel
         private void btnInsert_Click(object sender, RoutedEventArgs e)
         {
             //create a new row
-            DataTable tableProducts = LoadData();
-            DataRow row = tableProducts.NewRow();.
+            
+            DataRow row = tblProduct.NewRow();
 
 
             //assign values to row get from textbox
             row["ProductName"] = txtName.Text;
+            row["UnitPrice"] = decimal.Parse(txtPrice.Text);
+            row["UnitsInStock"] = short.Parse(txtQuantity.Text);
+            
             //Add row to table
+            tblProduct.Rows.Add(row);
+
+            //execute insert
+            adapter.InsertCommand = builder.GetInsertCommand();
+            adapter.Update(tblProduct);
+            RefreshDataGrid();
+        }
+
+        private void btnUpdate_Click(object sender, RoutedEventArgs e)
+        {
+            //Get entered Id
+            int id = int.Parse(txtId.Text);
+
+            //find row where given id
+            DataRow row = tblProduct.Rows.Find(id);
+            if (row != null)
+            {
+                string name = txtName.Text;
+                decimal price= decimal.Parse(txtPrice.Text);
+                short unitsInStock=short.Parse(txtQuantity.Text);
+
+                //update
+
+                row["ProductName"] = name;
+                row["UnitPrice"] = price;
+                row["UnitsInStock"] = unitsInStock;
+
+
+                //execute
+                adapter.InsertCommand = builder.GetUpdateCommand();
+                adapter.Update(tblProduct);
+                RefreshDataGrid();
+            }
+            else
+            {
+                MessageBox.Show("INcorrect id");
+            }
+        }
+
+        private void btnDelete_Click(object sender, RoutedEventArgs e)
+        {
+            int id = int.Parse(txtId.Text);
+
+            DataRow row= tblProduct.Rows.Find(id);
+
+            row.Delete();
+
+            adapter.InsertCommand = builder.GetDeleteCommand();
+            adapter.Update(tblProduct);
+            RefreshDataGrid();
+
+
         }
     }
 }

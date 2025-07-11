@@ -1,0 +1,15 @@
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\bin\Debug\net8.0\InputOutput.exe
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\bin\Debug\net8.0\InputOutput.deps.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\bin\Debug\net8.0\InputOutput.runtimeconfig.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\bin\Debug\net8.0\InputOutput.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\bin\Debug\net8.0\InputOutput.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.AssemblyInfoInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.AssemblyInfo.cs
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.sourcelink.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\obj\Debug\net8.0\refint\InputOutput.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\obj\Debug\net8.0\InputOutput.genruntimeconfig.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\InputOutput\InputOutput\obj\Debug\net8.0\ref\InputOutput.dll
