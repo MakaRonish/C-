@@ -1,0 +1,7 @@
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.AssemblyReference.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.exe.config
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.exe
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.exe
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.pdb
