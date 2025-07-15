@@ -1,0 +1,15 @@
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\bin\Debug\net8.0\lst.exe
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\bin\Debug\net8.0\lst.deps.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\bin\Debug\net8.0\lst.runtimeconfig.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\bin\Debug\net8.0\lst.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\bin\Debug\net8.0\lst.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\obj\Debug\net8.0\lst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\obj\Debug\net8.0\lst.AssemblyInfoInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\obj\Debug\net8.0\lst.AssemblyInfo.cs
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\obj\Debug\net8.0\lst.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\obj\Debug\net8.0\lst.sourcelink.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\obj\Debug\net8.0\lst.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\obj\Debug\net8.0\refint\lst.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\obj\Debug\net8.0\lst.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\obj\Debug\net8.0\lst.genruntimeconfig.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\lst\lst\obj\Debug\net8.0\ref\lst.dll
