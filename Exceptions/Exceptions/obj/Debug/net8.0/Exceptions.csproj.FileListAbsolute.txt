@@ -1,0 +1,15 @@
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.exe
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.runtimeconfig.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.sourcelink.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.genruntimeconfig.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\Exceptions\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll
