@@ -1,0 +1,15 @@
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\bin\Debug\net8.0\oop_adventure.exe
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\bin\Debug\net8.0\oop_adventure.deps.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\bin\Debug\net8.0\oop_adventure.runtimeconfig.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\bin\Debug\net8.0\oop_adventure.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\bin\Debug\net8.0\oop_adventure.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\obj\Debug\net8.0\oop_adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\obj\Debug\net8.0\oop_adventure.AssemblyInfoInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\obj\Debug\net8.0\oop_adventure.AssemblyInfo.cs
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\obj\Debug\net8.0\oop_adventure.csproj.CoreCompileInputs.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\obj\Debug\net8.0\oop_adventure.sourcelink.json
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\obj\Debug\net8.0\oop_adventure.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\obj\Debug\net8.0\refint\oop_adventure.dll
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\obj\Debug\net8.0\oop_adventure.pdb
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\obj\Debug\net8.0\oop_adventure.genruntimeconfig.cache
+C:\Users\ronis\OneDrive - Global College of Management\4th net c#\C-\oop_adventure\oop_adventure\obj\Debug\net8.0\ref\oop_adventure.dll
