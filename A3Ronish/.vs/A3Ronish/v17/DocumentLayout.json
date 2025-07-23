@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\A3Ronish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D490535-8F42-4E45-A9EE-FA1BAECF78E1}|A3Ronish\\A3Ronish.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\c-\\a3ronish\\a3ronish\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D490535-8F42-4E45-A9EE-FA1BAECF78E1}|A3Ronish\\A3Ronish.csproj|solutionrelative:a3ronish\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D490535-8F42-4E45-A9EE-FA1BAECF78E1}|A3Ronish\\A3Ronish.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\c-\\a3ronish\\a3ronish\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D490535-8F42-4E45-A9EE-FA1BAECF78E1}|A3Ronish\\A3Ronish.csproj|solutionrelative:a3ronish\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D490535-8F42-4E45-A9EE-FA1BAECF78E1}|A3Ronish\\A3Ronish.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\c-\\a3ronish\\a3ronish\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D490535-8F42-4E45-A9EE-FA1BAECF78E1}|A3Ronish\\A3Ronish.csproj|solutionrelative:a3ronish\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D490535-8F42-4E45-A9EE-FA1BAECF78E1}|A3Ronish\\A3Ronish.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\c-\\a3ronish\\a3ronish\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D490535-8F42-4E45-A9EE-FA1BAECF78E1}|A3Ronish\\A3Ronish.csproj|solutionrelative:a3ronish\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D490535-8F42-4E45-A9EE-FA1BAECF78E1}|A3Ronish\\A3Ronish.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\c-\\a3ronish\\a3ronish\\a3ronish.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D490535-8F42-4E45-A9EE-FA1BAECF78E1}|A3Ronish\\A3Ronish.csproj|solutionrelative:a3ronish\\a3ronish.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\A3Ronish\\A3Ronish\\Employee.cs",
+              "RelativeDocumentMoniker": "A3Ronish\\Employee.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\A3Ronish\\A3Ronish\\Employee.cs",
+              "RelativeToolTip": "A3Ronish\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:56:05.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\A3Ronish\\A3Ronish\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "A3Ronish\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\A3Ronish\\A3Ronish\\MainWindow.xaml.cs",
+              "RelativeToolTip": "A3Ronish\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAADwv6IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:43:08.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\A3Ronish\\A3Ronish\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "A3Ronish\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\A3Ronish\\A3Ronish\\MainWindow.xaml",
+              "RelativeToolTip": "A3Ronish\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-23T01:43:15.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\A3Ronish\\A3Ronish\\App.config",
+              "RelativeDocumentMoniker": "A3Ronish\\App.config",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\A3Ronish\\A3Ronish\\App.config",
+              "RelativeToolTip": "A3Ronish\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-23T01:54:27.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "A3Ronish",
+              "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\A3Ronish\\A3Ronish\\A3Ronish.csproj",
+              "RelativeDocumentMoniker": "A3Ronish\\A3Ronish.csproj",
+              "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\A3Ronish\\A3Ronish\\A3Ronish.csproj",
+              "RelativeToolTip": "A3Ronish\\A3Ronish.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T01:50:01.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
