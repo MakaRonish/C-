@@ -1,11 +1,13 @@
-﻿using OOPAdventure;
+﻿using oop_adventure.src.Characters;
+using OOPAdventure;
 namespace oop_adventure
 {
      class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello What is your name: ");
+            var language = new English();
+            Console.Write(language.ChooseYourName);
             string name = Console.ReadLine();
             if (string.IsNullOrEmpty(name))
             {
@@ -14,6 +16,8 @@ namespace oop_adventure
 
             var player = new Player(name);
             Console.Write($"Hello, {player.Name}");
+
+            
 
         }
     }
