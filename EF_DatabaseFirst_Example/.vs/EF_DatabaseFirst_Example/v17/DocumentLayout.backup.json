@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\EF_DatabaseFirst_Example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B7B45A9-3A7F-4E72-ACE8-5F63F8903AD9}|EF_DatabaseFirst_Example.csproj|C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\EF_DatabaseFirst_Example\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8B7B45A9-3A7F-4E72-ACE8-5F63F8903AD9}|EF_DatabaseFirst_Example.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{8B7B45A9-3A7F-4E72-ACE8-5F63F8903AD9}|EF_DatabaseFirst_Example.csproj|C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\EF_DatabaseFirst_Example\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B45A9-3A7F-4E72-ACE8-5F63F8903AD9}|EF_DatabaseFirst_Example.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B7B45A9-3A7F-4E72-ACE8-5F63F8903AD9}|EF_DatabaseFirst_Example.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\c-\\ef_databasefirst_example\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B7B45A9-3A7F-4E72-ACE8-5F63F8903AD9}|EF_DatabaseFirst_Example.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B7B45A9-3A7F-4E72-ACE8-5F63F8903AD9}|EF_DatabaseFirst_Example.csproj|c:\\users\\ronis\\onedrive - global college of management\\4th net c#\\c-\\ef_databasefirst_example\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8B7B45A9-3A7F-4E72-ACE8-5F63F8903AD9}|EF_DatabaseFirst_Example.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B7B45A9-3A7F-4E72-ACE8-5F63F8903AD9}|EF_DatabaseFirst_Example.csproj|C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\EF_DatabaseFirst_Example\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -38,30 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 887,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\EF_DatabaseFirst_Example\\App.config",
               "RelativeDocumentMoniker": "App.config",
               "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\EF_DatabaseFirst_Example\\App.config",
               "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-07-10T17:59:39.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\EF_DatabaseFirst_Example\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\EF_DatabaseFirst_Example\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAqwGoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T17:17:02.662Z",
               "EditorCaption": ""
@@ -123,8 +123,7 @@
               "ToolTip": "C:\\Users\\ronis\\OneDrive - Global College of Management\\4th net c#\\C-\\EF_DatabaseFirst_Example\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-10T17:17:03.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T17:17:03.709Z"
             }
           ]
         },
@@ -134,11 +133,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",

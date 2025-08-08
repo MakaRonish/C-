@@ -1,5 +1,0 @@
-	<connectionStrings>
-		<add name="Northwind" 
-connectionString="Server=(LocalDB\MSSQLLocalDB;Database=Northwind;Trusted_Connection=True;"
-providerName="Microsoft.Data.SqlClient"/>
-	</connectionStrings>

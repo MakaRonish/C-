@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIN10\\OneDrive - Sheridan College\\PROG32356\\Week8_ConnectedModelExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A765F3-8307-45FB-84E8-C1B02C0CB0E2}|Week8_ConnectedModelExample.csproj|c:\\users\\win10\\onedrive - sheridan college\\prog32356\\week8_connectedmodelexample\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A765F3-8307-45FB-84E8-C1B02C0CB0E2}|Week8_ConnectedModelExample.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A765F3-8307-45FB-84E8-C1B02C0CB0E2}|Week8_ConnectedModelExample.csproj|c:\\users\\win10\\onedrive - sheridan college\\prog32356\\week8_connectedmodelexample\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2A765F3-8307-45FB-84E8-C1B02C0CB0E2}|Week8_ConnectedModelExample.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A765F3-8307-45FB-84E8-C1B02C0CB0E2}|Week8_ConnectedModelExample.csproj|c:\\users\\win10\\onedrive - sheridan college\\prog32356\\week8_connectedmodelexample\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2A765F3-8307-45FB-84E8-C1B02C0CB0E2}|Week8_ConnectedModelExample.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\WIN10\\OneDrive - Sheridan College\\PROG32356\\Week8_ConnectedModelExample\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\WIN10\\OneDrive - Sheridan College\\PROG32356\\Week8_ConnectedModelExample\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-03T17:14:39.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\WIN10\\OneDrive - Sheridan College\\PROG32356\\Week8_ConnectedModelExample\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\WIN10\\OneDrive - Sheridan College\\PROG32356\\Week8_ConnectedModelExample\\MainWindow.xaml*",
+              "RelativeToolTip": "MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-03T16:43:52.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\WIN10\\OneDrive - Sheridan College\\PROG32356\\Week8_ConnectedModelExample\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\WIN10\\OneDrive - Sheridan College\\PROG32356\\Week8_ConnectedModelExample\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AQIAAHcAAACApypAeVgowH4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:43:47.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
